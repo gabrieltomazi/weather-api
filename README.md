@@ -1,8 +1,6 @@
 # ☁️ Weather API - Consulta de Clima em Tempo Real
 
-<!-- <div align="center">
-  <img src="./img/preview.png" alt="Weather API Preview" width="800px">
-</div> -->
+<img width="1719" height="1079" alt="preview" src="https://github.com/user-attachments/assets/0c0cb93c-faea-440c-b419-0dbfeaba3f4f" />
 
 ## 📝 Sobre o Projeto
 
